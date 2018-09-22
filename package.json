@@ -1,0 +1,23 @@
+{
+  "name": "@lxfriday/deepcopy",
+  "version": "1.0.0",
+  "description": "deepcopy for javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lxfriday/deepcopy.git"
+  },
+  "keywords": [
+    "deepcopy",
+    "copy"
+  ],
+  "author": "lxfriday",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lxfriday/deepcopy/issues"
+  },
+  "homepage": "https://github.com/lxfriday/deepcopy#readme"
+}
